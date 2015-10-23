@@ -1,7 +1,6 @@
-# Course Project of Coursera's 
-# "Getting and Cleaning Data" course
+# "Getting and Cleaning Data" course project
 
-Resources:
+## Resources:
 
 The data involved represent measures collected from the Samsung Galaxy S II smartphone. 
 A panel of 30 persons equipped with a Samsung Galaxy S II performed six action (e.g. walking, sitting, laying... etc) while 
@@ -15,7 +14,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Purpose: Create a script called "run_analysis.R" that performs the following five steps:
+## Purpose: Create a script called "run_analysis.R" that performs the following five steps:
 
   1. Merges the training and the test sets to create one data set
   2. Extracts only the measurements on the mean and standard deviation for each measurement
@@ -24,10 +23,12 @@ Purpose: Create a script called "run_analysis.R" that performs the following fiv
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Instruction to proceed:
+##Instruction to proceed:
+
   Download the zip data on your local machine and extract it. You'll have a UCI HAR Dataset folder.
   Put run_analysis.R in the UCI HAR Dataset folder, then set it as your working directory using setwd() 
   Run source("run_analysis.R"), then it will generate a new file step5.txt in the curent working directory.
 
-Dependencies
+##Dependencies
+
 run_analysis.R does not require specific libraries. 
