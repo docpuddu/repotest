@@ -1,14 +1,18 @@
-# Course Project of Coursera's "Getting and Cleaning Data" course
+# Course Project of Coursera's 
+# "Getting and Cleaning Data" course
 
 Resources:
+
 The data involved represent measures collected from the Samsung Galaxy S II smartphone. 
 A panel of 30 persons equipped with a Samsung Galaxy S II performed six action (e.g. walking, sitting, laying... etc) while 
 the smartphone was registering spatial movement (by the accelerometer, gyroscope..)
 
 A full description is available at the site where the data was obtained:
+
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Here are the data for the project:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Purpose: Create a script called "run_analysis.R" that performs the following five steps:
